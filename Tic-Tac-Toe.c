@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
     char board[3][3];
 
@@ -340,7 +339,6 @@
 
 
     int main(){
-        srand(time(NULL));
 
         printf("---***---WELCOME PLAYERS TO THE GAME---***---\n\n");
         printf("------***----::TIC TAC TOE::----***------\n");
